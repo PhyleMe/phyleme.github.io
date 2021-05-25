@@ -520,3 +520,49 @@ width: 60px;
 }
 
 }
+
+@media (max-width: 370px) {
+  #home {
+    padding-bottom: 50px;
+    
+  }
+
+.spacer
+{
+padding-top: 0%;
+}
+
+  #home h1 {
+    font-size: 60px;
+    text-align: center;
+    padding-right: 50px;
+  }
+  #home h3 {
+    font-size: 15px;
+    width: fit-content;
+    padding-right: 55px;
+  }
+
+  h4{
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center ;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  video{
+    padding-bottom: 10px;
+  }
+
+.image1
+{
+  width: 400px;
+  padding-right: 35px;
+}
+
+.navimg
+{
+width: 60px;
+}
