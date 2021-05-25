@@ -230,6 +230,7 @@ padding-top: 100vh;
   font-size: 60px;
   font-weight: bolder;
   color: #000000;
+  padding-right: 10px;
 }
 #home h3 {
   font-size: 25px;
@@ -475,6 +476,7 @@ video {
 @media (max-width: 440px) {
   #home {
     padding-bottom: 50px;
+    
   }
 
 .spacer
@@ -485,12 +487,12 @@ padding-top: 0%;
   #home h1 {
     font-size: 60px;
     text-align: center;
-    padding-right: 20px;
+    padding-right: 40px;
   }
   #home h3 {
     font-size: 15px;
     width: fit-content;
-    padding-right: 50px;
+    padding-right: 55px;
   }
 
   h4{
